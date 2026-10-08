@@ -17,8 +17,16 @@
     "cost",
     "haiec"
   ],
-  "author": "HAIEC",
+  "author": "Subodh Kc <subodhkc.com>",
   "license": "MIT",
+  "homepage": "https://www.haiec.com/ai-inventory",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subodhkc/haiec-openai.git"
+  },
+  "bugs": {
+    "url": "https://github.com/subodhkc/haiec-openai/issues"
+  },
   "peerDependencies": {
     "openai": "^4.0.0"
   },

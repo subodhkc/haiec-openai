@@ -116,9 +116,13 @@ This wrapper maintains 100% compatibility with the official OpenAI SDK. All meth
 ## Support
 
 - **Documentation**: [docs.haiec.com](https://docs.haiec.com)
-- **Issues**: [GitHub Issues](https://github.com/haiec/haiec-openai/issues)
+- **Issues**: [GitHub Issues](https://github.com/subodhkc/haiec-openai/issues)
 - **Email**: support@haiec.com
 
 ## License
 
 MIT
+
+---
+
+Built by [Subodh Kc](https://subodhkc.com) — a [HAIEC](https://www.haiec.com) (Human AI Evidence Company) product.
